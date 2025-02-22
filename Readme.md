@@ -37,6 +37,11 @@ Deadline detection – Some phrases like "end of the week" were difficult to sta
 Fine-tuning heuristics improved task identification accuracy.
 Custom Word2Vec model enabled better task categorization based on action words.
 Expanding the dataset with more training examples could further enhance performance.
+
+📽️ Code Walkthrough Video
+Watch the video walkthrough of this project:  
+[📹 Click Here to Watch] (https://drive.google.com/file/d/1LT_Ej2eizjz3rLMlTYFJp5aPAXMnFU5T/view?usp=sharing)
+
 📜 License
 This project is for educational purposes and part of an AI internship assignment.
 
